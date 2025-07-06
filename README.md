@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone
 
-A pixel-perfect Netflix homepage clone built with pure HTML and CSS to practice and revise fundamental web development concepts.
+An almost pixel-perfect Netflix homepage clone built with pure HTML and CSS to practice and revise fundamental web development concepts.
 
 ## 📺 Tutorial Credit
 
@@ -12,7 +12,7 @@ This project was created by following the Netflix Clone tutorial by **CodeWithHa
 **Instructor**: Haris Ali Khan (CodeWithHarry)  
 **Channel**: [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 
-While following the tutorial, I SIMULTANEOUSLY LEARNED ABOUT THE TAGS, PROPS, MEDIA QUERIES, BY ASKING a "WHY"... THUS GETTING A GOOD UNDERSTANDIN OF HOW AND WHY THINGS ARE THE WAY THEY ARE.
+While following the tutorial, I SIMULTANEOUSLY LEARNED ABOUT THE TAGS, PROPS, MEDIA QUERIES, BY ASKING a "WHY"... THUS GETTING A GOOD UNDERSTANDING OF HOW AND WHY THINGS ARE, THE WAY THEY ARE.
 
 ## 🎯 Project Purpose
 
