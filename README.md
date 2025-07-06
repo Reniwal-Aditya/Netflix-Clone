@@ -12,7 +12,7 @@ This project was created by following the Netflix Clone tutorial by **CodeWithHa
 **Instructor**: Haris Ali Khan (CodeWithHarry)  
 **Channel**: [CodeWithHarry](https://www.youtube.com/c/CodeWithHarry)
 
-While following the tutorial, I focused on understanding and practicing core web development concepts rather than just copying code.
+While following the tutorial, I SIMULTANEOUSLY LEARNED ABOUT THE TAGS, PROPS, MEDIA QUERIES, BY ASKING a "WHY"... THUS GETTING A GOOD UNDERSTANDIN OF HOW AND WHY THINGS ARE THE WAY THEY ARE.
 
 ## 🎯 Project Purpose
 
